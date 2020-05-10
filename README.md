@@ -1,9 +1,10 @@
 # pulumi-haskell-server
 
 ### Prerequisities:
-- AWS account 
-- pulumi cli installed
-- Node.js installed
+- Docker Engine - Community
+- Pulumi
+- Node.js
+- AWS account
 
 > 1. npm install
 > 2. pulumi up
