@@ -7,7 +7,7 @@
 - AWS account
 
 > 1. npm install
-> 2. pulumi up
+> 2. pulumi up (It may take some time so be patient)
 > 3. Choose `yes` and wait for the creation to complete
 > 4. Copy the `url` output from the `Outputs` section
 > 5. Paste the url in your browser
