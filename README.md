@@ -7,8 +7,6 @@
 
 > 1. npm install
 > 2. pulumi up
-choose "yes"
-
-copy the `url` output from the `Outputs` section
-
-and your'e done
+> 3. Choose "yes"
+> 4. Copy the `url` output from the `Outputs` section
+> 5. Paste in your browser
